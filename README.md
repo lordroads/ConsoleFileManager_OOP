@@ -65,7 +65,7 @@
 
 2.0.0 Version
 
-[target-image]: https://img.shields.io/badge/.NET-5.0-green
+[target-image]: https://img.shields.io/badge/.NET-6.0-green
 [version-image]: https://img.shields.io/badge/C%23-9.0-green
 
 # Sponsors
