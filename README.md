@@ -1,6 +1,3 @@
-# ConsoleFileManager_OOP
-Курсовая работа по курсу ООП GeekBrains
-
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Yurii</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">GeekBrains student of the course "Introduction to C#"</h3>
